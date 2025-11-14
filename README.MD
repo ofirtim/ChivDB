@@ -55,6 +55,7 @@ try (var db = UnifiedDB.init(cfg)) {
 ```
 
 ## 🏗️ Architecture
+```
 core/
  ├── ChivField --------------------// Typed field abstraction
  ├── ChivCondition --------------// AST root (Atom, Junction, Not)
@@ -64,7 +65,9 @@ core/
  ├── DbConfig, DbHandle ------// Connection metadata & unified handle
  ├── RelationalApi, DocumentApi
  └── UnifiedDB (bootstraps engines via ServiceLoader)
+ ```
 
+```
 engines/
  ├── jooq/
  │    ├── JooqRelationalApi
@@ -74,6 +77,7 @@ engines/
  ├── mongo/ (planned)
  ├── rethink/ (planned)
  └── sqlite/ (planned)
+ ```
 
 ## 🧩 Fluent Conditions
 ChivDB’s condition model is composable, engine-agnostic, and convertible into SQL or BSON as needed.
