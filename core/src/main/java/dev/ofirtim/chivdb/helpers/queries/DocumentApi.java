@@ -1,7 +1,7 @@
 package dev.ofirtim.chivdb.helpers.queries;
 
-import dev.ofirtim.chivdb.structureless.ChivCondition;
-import dev.ofirtim.chivdb.structureless.ChivDocument;
+import dev.ofirtim.chivdb.structs.ChivCondition;
+import dev.ofirtim.chivdb.structs.ChivDocument;
 
 import java.util.List;
 import java.util.Map;

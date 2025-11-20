@@ -6,7 +6,7 @@ import dev.ofirtim.chivdb.TypeCoercion;
 import dev.ofirtim.chivdb.helpers.Normalizer;
 import dev.ofirtim.chivdb.helpers.queries.RelationalApi;
 import dev.ofirtim.chivdb.operators.*;
-import dev.ofirtim.chivdb.structureless.*;
+import dev.ofirtim.chivdb.structs.*;
 import org.jooq.*;
 import org.jooq.Record;
 import org.jooq.impl.DSL;

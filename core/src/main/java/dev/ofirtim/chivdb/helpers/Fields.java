@@ -1,6 +1,6 @@
 package dev.ofirtim.chivdb.helpers;
 
-import dev.ofirtim.chivdb.structureless.ChivField;
+import dev.ofirtim.chivdb.structs.ChivField;
 
 import java.time.Instant;
 import java.time.LocalDate;

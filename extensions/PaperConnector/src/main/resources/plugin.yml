@@ -1,0 +1,6 @@
+name: ChivDBPluginConnector
+version: ${version}
+main: dev.dev.millenialsoftwares.utils.papermc.connector.PaperAppLoader
+description: A connector plugin for ChivDB library.
+authors: [OfirTIM, MTR]
+commands:

@@ -1,10 +1,10 @@
 package dev.ofirtim.chivdb.helpers;
 
 import dev.ofirtim.chivdb.operators.ComparisonOp;
-import dev.ofirtim.chivdb.structureless.ChivAtom;
-import dev.ofirtim.chivdb.structureless.ChivCondition;
-import dev.ofirtim.chivdb.structureless.ChivJunction;
-import dev.ofirtim.chivdb.structureless.ChivNot;
+import dev.ofirtim.chivdb.structs.ChivAtom;
+import dev.ofirtim.chivdb.structs.ChivCondition;
+import dev.ofirtim.chivdb.structs.ChivJunction;
+import dev.ofirtim.chivdb.structs.ChivNot;
 
 import java.util.Optional;
 

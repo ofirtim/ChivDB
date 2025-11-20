@@ -1,7 +1,7 @@
 package dev.ofirtim.chivdb.helpers;
 
 import dev.ofirtim.chivdb.operators.*;
-import dev.ofirtim.chivdb.structureless.*;
+import dev.ofirtim.chivdb.structs.*;
 
 import java.util.Arrays;
 import java.util.Collection;

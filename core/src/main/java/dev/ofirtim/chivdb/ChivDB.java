@@ -1,7 +1,5 @@
 package dev.ofirtim.chivdb;
 
-import dev.ofirtim.chivdb.structureless.ChivCondition;
-
 import java.util.ServiceLoader;
 
 public final class ChivDB {

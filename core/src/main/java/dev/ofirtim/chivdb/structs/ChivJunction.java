@@ -1,4 +1,4 @@
-package dev.ofirtim.chivdb.structureless;
+package dev.ofirtim.chivdb.structs;
 
 import java.util.List;
 

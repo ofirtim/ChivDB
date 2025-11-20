@@ -3,7 +3,7 @@ package dev.ofirtim.chivdb.engines.jooq.support;
 import dev.ofirtim.chivdb.TypeCoercion;
 import dev.ofirtim.chivdb.spi.FieldResolver;
 import dev.ofirtim.chivdb.spi.ValueCoercer;
-import dev.ofirtim.chivdb.structureless.ChivField;
+import dev.ofirtim.chivdb.structs.ChivField;
 import org.jooq.Field;
 import org.jooq.impl.DSL;
 

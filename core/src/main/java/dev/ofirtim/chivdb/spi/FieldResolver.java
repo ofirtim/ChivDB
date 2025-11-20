@@ -1,6 +1,6 @@
 package dev.ofirtim.chivdb.spi;
 
-import dev.ofirtim.chivdb.structureless.ChivField;
+import dev.ofirtim.chivdb.structs.ChivField;
 
 public interface FieldResolver<F> {
 
