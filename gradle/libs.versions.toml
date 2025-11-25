@@ -4,3 +4,4 @@ postgreSQL = { group = "org.postgresql", name = "postgresql", version = "42.7.7"
 mySQL = { group = "com.mysql", name = "mysql-connector-j", version = "9.4.0" }
 sQLite = {group = "org.xerial", name = "sqlite-jdbc", version = "3.50.3.0"}
 paper = { group = "io.papermc.paper", name = "paper-api", version = "1.19.4-R0.1-SNAPSHOT" }
+lombok = { group ="org.projectlombok", name = "lombok", version = "1.18.42" }
