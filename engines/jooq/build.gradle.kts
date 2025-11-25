@@ -7,4 +7,6 @@ dependencies {
     runtimeOnly(libs.postgreSQL)
     runtimeOnly(libs.mySQL)
     runtimeOnly(libs.sqLite)
+    runtimeOnly(libs.lombok)
+    annotationProcessor(libs.lombok)
 }

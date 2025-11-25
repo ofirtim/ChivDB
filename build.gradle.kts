@@ -7,10 +7,7 @@ plugins {
     id("maven-publish")
 }
 
-group = "dev.millenialsoftwares.utils"
-version = "2025-Q4"
-
-subprojects {
+allprojects {
     apply {
         plugin("java")
         plugin("java-library")
