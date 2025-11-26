@@ -1,8 +1,8 @@
 package dev.millenialsoftwares.utils.helpers.queries;
 
-import dev.millenialsoftwares.utils.structs.ChivRow;
 import dev.millenialsoftwares.utils.structs.ChivCondition;
 import dev.millenialsoftwares.utils.structs.ChivField;
+import dev.millenialsoftwares.utils.structs.ChivRow;
 
 import java.util.List;
 import java.util.Map;

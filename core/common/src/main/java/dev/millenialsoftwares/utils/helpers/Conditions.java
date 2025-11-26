@@ -2,8 +2,6 @@ package dev.millenialsoftwares.utils.helpers;
 
 import dev.millenialsoftwares.utils.operators.*;
 import dev.millenialsoftwares.utils.structs.*;
-import dev.ofirtim.chivdb.operators.*;
-import dev.ofirtim.chivdb.structs.*;
 
 import java.util.Arrays;
 import java.util.Collection;
