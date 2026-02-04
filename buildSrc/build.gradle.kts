@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "dev.millenialsoftwares.utils"
-version = "2025-Q4"
+version = "2026-Q1"
 
 repositories {
     maven {
