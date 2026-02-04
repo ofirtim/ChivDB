@@ -22,3 +22,4 @@ include(
     "engines:jooq",
     "extensions:PaperConnector"
 )
+include("api")
